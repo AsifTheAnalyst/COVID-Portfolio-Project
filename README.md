@@ -1,2 +1,3 @@
 # COVID-Portfolio-Project
-Data Exploration.sql
+
+Covid Data Exploration in Microsoft SQl database
