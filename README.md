@@ -1,3 +1,4 @@
 # COVID-Portfolio-Project
 
-Covid Data Exploration in Microsoft SQl database
+Data Analysis On Covid 19 with the help of Excel and Sql 
+Visualization tool used POWER BI
